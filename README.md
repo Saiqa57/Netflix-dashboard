@@ -4,8 +4,8 @@ Netflix-dashboard
 3. Description:
  An interactive Tableau dashboard analyzing Netflix’s catalog of movies and TV shows. It visualizes content trends by year, top genres, ratings, and distribution of movies vs TV shows. Users can filter by type or title to view detailed insights including genre, rating, duration, release year, date added, and description.
 4. Tech stacks:
-   Tableau public - Main data visualization platform used.
-   File Format – .png for dashboard previews.
+   Tableau public-Main data visualization platform used and
+   File Format–.png for dashboard previews.
 5. Data:
    collected dataset from kaggle
    Size: 6000+ records of netflix data
@@ -30,6 +30,8 @@ Netflix-dashboard
    For a selected title, what are its genre, rating, duration, release year, date added, and description?
 8. Goal of the dashboard:
    To deliver an interactive visual tool that Supports decisions such as content strategy, market analysis, or entertainment research       and uncover trends in movies and TV shows by year, genre, rating, and type, and gain actionable insights into content distribution.
+9. Screenshot
+    https://github.com/Saiqa57/Netflix-dashboard/blob/main/dashboard.png
 
     
    
