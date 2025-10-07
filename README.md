@@ -1,13 +1,13 @@
-<img width="239" height="180" alt="image" src="https://github.com/user-attachments/assets/ae639632-edc5-4e04-b284-88b53458fcf7" /># Netflix-dashboard
-1. Project title
- Movies & TV Shows Analysis on Netflix: Interactive Tableau project that uncovers patterns in Netflix’s content catalog, from yearly additions to genre trends and viewer ratings.
-3. Description
+Netflix-dashboard
+1. Project title:
+ Movies & TV Shows Analysis on Netflix
+3. Description:
  An interactive Tableau dashboard analyzing Netflix’s catalog of movies and TV shows. It visualizes content trends by year, top genres, ratings, and distribution of movies vs TV shows. Users can filter by type or title to view detailed insights including genre, rating, duration, release year, date added, and description.
-4. Tech stack
+4. Tech stacks:
    Tableau public - Main data visualization platform used.
    File Format – .png for dashboard previews.
-5. Data
-   Source: Netflix movies and Tv shows dataset - Kaggle
+5. Data:
+   collected dataset from kaggle
    Size: 6000+ records of netflix data
    Features:
    itle – Name of the Movie/TV Show
@@ -21,14 +21,14 @@
    duration – Duration (minutes for Movies / number of seasons for TV Shows)
    listed_in – Genre(s)
    description – Short summary of the content
-6. Business problem
+6. Business problem:
    Netflix hosts thousands of movies and TV shows, yet analysts and content strategists often lack an intuitive way to explore how its     content is distributed across years, genres, ratings, and types.
-7. Key questions
+7. Key questions:
    Which genres are most common or trending on Netflix?
    Which production countries contribute the most content?
    What is the ratio of movies to TV shows on Netflix?
    For a selected title, what are its genre, rating, duration, release year, date added, and description?
-8. Goal of the dashboard
+8. Goal of the dashboard:
    To deliver an interactive visual tool that Supports decisions such as content strategy, market analysis, or entertainment research       and uncover trends in movies and TV shows by year, genre, rating, and type, and gain actionable insights into content distribution.
 
     
